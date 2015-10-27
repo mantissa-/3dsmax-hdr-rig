@@ -1,7 +1,6 @@
 -- HDR Rig 1.0 - 06/02/15
 -- Developed by Midge Sinnaeve
 -- www.themantissa.net
--- midge@daze.tv
 -- Licensed under GPL v2
 
 macroScript HDRRig
